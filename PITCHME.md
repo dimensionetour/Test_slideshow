@@ -1,0 +1,5 @@
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594277611/Test_Slideshow/IDO.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594277604/Test_Slideshow/Linea.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594277601/Test_Slideshow/Laetitia.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594277600/Test_Slideshow/Asymmetrical.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594277600/Test_Slideshow/Beta.jpg&size=auto 100%
